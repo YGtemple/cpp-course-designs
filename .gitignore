@@ -1,0 +1,7 @@
+﻿*.user
+debug.log
+build/
+x64/
+Debug/
+Release/
+.vs/
